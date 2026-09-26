@@ -1,0 +1,2 @@
+# Report_DSesame24-9780_SNP_1
+The files "Report_DSesame24-9780_SNP_1" and “Report_DSesame24-9780_SilicoDArT_2”, contain 39,122 unfiltered SNP variants and 49,290 unfiltered silicoDArT variants, respectively, derived from the raw marker data provided in the DArT service outputs. No quality filters or imputation have been applied, preserving the original variants as generated during the initial processing.
